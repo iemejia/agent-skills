@@ -6,7 +6,7 @@
 
 [![skills.sh](https://skills.sh/b/sinedied/agent-skills)](https://skills.sh/sinedied/agent-skills)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE.md)
-![Skills](https://img.shields.io/badge/Skills-9-blue?style=flat-square)
+![Skills](https://img.shields.io/badge/Skills-8-blue?style=flat-square)
 
 ⭐ If you find these skills useful, star the repo on GitHub — it helps a lot!
 
