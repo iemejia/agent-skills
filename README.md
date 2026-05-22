@@ -6,7 +6,7 @@
 
 [![skills.sh](https://skills.sh/b/sinedied/agent-skills)](https://skills.sh/sinedied/agent-skills)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE.md)
-![Skills](https://img.shields.io/badge/Skills-8-blue?style=flat-square)
+![Skills](https://img.shields.io/badge/Skills-9-blue?style=flat-square)
 
 ⭐ If you find these skills useful, star the repo on GitHub — it helps a lot!
 
@@ -26,6 +26,7 @@ This repository hosts a set of reusable skills for AI coding agents (Claude Code
 | [`agent-friendly-tui`](.agents/skills/agent-friendly-tui/SKILL.md) | 10 rules for designing terminal UIs and CLIs that are pleasant for AI agents to use. |
 | [`copilot-sdk-nodejs`](.agents/skills/copilot-sdk-nodejs/SKILL.md) | Build Node.js/TypeScript apps with the GitHub Copilot SDK (`@github/copilot-sdk`). |
 | [`image-gen`](.agents/skills/image-gen/SKILL.md) | Generate and edit images using OpenAI-compatible image APIs (gpt-image family). |
+| [`impactful-titles`](.agents/skills/impactful-titles/SKILL.md) | Craft impactful, memorable titles for talks, blog posts, and other content. |
 | [`public-tunnel`](.agents/skills/public-tunnel/SKILL.md) | Expose a local port through a temporary public tunnel for demos or sharing. |
 | [`readme`](.agents/skills/readme/SKILL.md) | Create or update a polished `README.md` for any project. |
 | [`reverse-spec`](.agents/skills/reverse-spec/SKILL.md) | Reverse-engineer an existing codebase into a detailed `SPEC.md` for re-implementation. |
