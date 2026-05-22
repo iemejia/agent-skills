@@ -1,6 +1,7 @@
 ---
 name: public-tunnel
 description: Create temporary public tunnels to expose local application ports for demos or sharing work in progress. Use when the user asks to share a local app, create a public URL for a port, set up a tunnel, or make a local server temporarily accessible from the internet.
+license: Complete terms in LICENSE.md
 ---
 
 # Public Tunnel (tunnelmole)

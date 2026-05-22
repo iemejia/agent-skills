@@ -1,7 +1,7 @@
 ---
 name: image-gen
 description: Create and edit images using OpenAI image generation API with GPT image models (gpt-image-1, gpt-image-1-mini, gpt-image-1.5 and later). Use when the user asks to generate an image from a text prompt, edit or modify an existing image, create illustrations, logos, icons, concept art, or any visual content using AI image generation. Also use when combining multiple source images into a new composition.
-license: Complete terms in LICENSE.txt
+license: Complete terms in LICENSE.md
 ---
 
 # Image Generation & Editing

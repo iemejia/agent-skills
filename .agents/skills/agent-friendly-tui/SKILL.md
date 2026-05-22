@@ -1,6 +1,7 @@
 ---
 name: agent-friendly-tui
 description: 10 rules for building agent-friendly terminal UIs and CLIs. Use whenever designing, building, refactoring, or reviewing a command-line tool, terminal UI, TUI, REPL, shell utility, or MCP wrapper that will be invoked by AI agents (in addition to humans). Triggers on requests involving CLI design, command flags, exit codes, output formatting, prompts, JSON output, help text, async jobs, or making a tool "agent-friendly".
+license: Complete terms in LICENSE.md
 ---
 
 # Agent-Friendly Terminal UIs — 10 Rules

@@ -1,6 +1,7 @@
 ---
 name: copilot-sdk-nodejs
 description: Build Node.js/TypeScript applications using the GitHub Copilot SDK (@github/copilot-sdk). Use when the user asks to create, debug, or work with Copilot SDK clients, sessions, tools, streaming, events, BYOK providers, or any programmatic integration with GitHub Copilot in Node.js or TypeScript.
+license: Complete terms in LICENSE.md
 ---
 
 # GitHub Copilot SDK — Node.js / TypeScript

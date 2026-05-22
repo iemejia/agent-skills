@@ -1,6 +1,7 @@
 ---
 name: telegram-send
 description: "Send a message to the user via Telegram, optionally with media (images, videos, documents). USE FOR: sending notifications, alerts, status updates, or any message to the user through Telegram."
+license: Complete terms in LICENSE.md
 ---
 
 # Telegram Send

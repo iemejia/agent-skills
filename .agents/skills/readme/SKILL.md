@@ -1,7 +1,7 @@
 ---
 name: readme
 description: Create or update a root README.md file for any project repository. Use when a user asks to create a README, generate a README for a project, write project documentation, update an existing README, or improve a README. Also use when setting up a new project and the user wants a polished README file.
-license: Complete terms in LICENSE.txt
+license: Complete terms in LICENSE.md
 ---
 
 # README Creator

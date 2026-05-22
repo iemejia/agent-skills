@@ -1,6 +1,7 @@
 ---
 name: reverse-spec
 description: Reverse-engineer an existing codebase into an extremely detailed SPEC.md that is sufficient for another agent to rebuild a closely matching working application. Use when the user asks to generate a full spec, PRD, architecture blueprint, implementation plan, acceptance criteria, edge cases, design/writing style guide, or a reconstruction-ready technical specification from existing code.
+license: Complete terms in LICENSE.md
 ---
 
 # Reverse Spec
