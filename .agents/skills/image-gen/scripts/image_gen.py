@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 OpenAI image generation and editing CLI tool.
-Compatible with gpt-image-1, gpt-image-1-mini, gpt-image-1.5 and later models.
+Compatible with gpt-image-1, gpt-image-1-mini, gpt-image-1.5, gpt-image-2
+and later models.
 Also works with Azure OpenAI (v1 endpoint) and other OpenAI-compatible providers.
 No external dependencies required (Python 3.8+ standard library only).
 
@@ -32,7 +33,6 @@ from pathlib import Path
 
 DEFAULT_BASE_URL = "https://api.openai.com/v1"
 DEFAULT_MODEL = "gpt-image-1.5"
-
 
 def _die(msg: str) -> None:
     print(f"Error: {msg}", file=sys.stderr)
@@ -356,7 +356,7 @@ def build_parser() -> argparse.ArgumentParser:
                 -i img1.png -i img2.png -o ./out
 
               # Custom endpoint (Azure OpenAI, etc.)
-              OPENAI_BASE_URL=https://myresource.openai.azure.com/openai/deployments/gpt-image-1 \\
+              OPENAI_BASE_URL=https://myresource.openai.azure.com/openai/v1 \\
                 python image_gen.py generate "A sunset"
         """),
     )
