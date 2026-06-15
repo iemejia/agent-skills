@@ -1,6 +1,6 @@
 ---
 name: image-gen
-description: Create and edit images using OpenAI image generation API with GPT image models (gpt-image-1, gpt-image-1-mini, gpt-image-1.5 and later). Use when the user asks to generate an image from a text prompt, edit or modify an existing image, create illustrations, logos, icons, concept art, or any visual content using AI image generation. Also use when combining multiple source images into a new composition.
+description: Create and edit images using OpenAI image generation API with GPT image models (gpt-image-1, gpt-image-1-mini, gpt-image-1.5, gpt-image-2 and later). Use when the user asks to generate an image from a text prompt, edit or modify an existing image, create illustrations, logos, icons, concept art, or any visual content using AI image generation. Also use when combining multiple source images into a new composition.
 license: Complete terms in LICENSE.md
 ---
 
@@ -17,6 +17,7 @@ Generate and edit images via OpenAI-compatible REST APIs using the bundled Pytho
 | `gpt-image-1` | ✓ | ✓ | Base GPT image model |
 | `gpt-image-1-mini` | ✓ | ✓ | Smaller, faster variant |
 | `gpt-image-1.5` | ✓ | ✓ | Latest, most capable |
+| `gpt-image-2` | ✓ | ✓ | Next-gen model (2026-04-21+) |
 
 ### Key Parameters
 
